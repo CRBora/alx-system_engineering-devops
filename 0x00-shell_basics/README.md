@@ -6,3 +6,6 @@
 6. Display current directory contents, long format, with user and group IDs displayed numerically, and hidden files
 7. Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 8. Move the file betty from /tmp/ to /tmp/my_first_directory
+9. Delete the file betty
+
+
