@@ -1,3 +1,4 @@
 #!/bin/bash
-chmod 644 hello, -R 755
+chmod -R755*
+
 
