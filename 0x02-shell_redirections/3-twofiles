@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -t /etc/passwd /etc/hosts | head -n 11
+cat -t /etc/passwd /etc/hosts | diff -q
